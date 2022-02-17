@@ -8,7 +8,7 @@ Qt Serialport Tool helps L610 probide 4G for PC through RNDIS.
 
 ![img](https://github.com/xiaoboliu0602/serialport-v1/blob/master/img/1.png)
 
-
-
 ## 2. FIBOCOM ADP-L610-Arduino
+
+![img](https://github.com/xiaoboliu0602/serialport-v1/blob/master/img/2.png)
 
